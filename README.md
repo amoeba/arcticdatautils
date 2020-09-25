@@ -1,6 +1,9 @@
 # arcticdatautils
 
 [![Travis build status](https://travis-ci.org/NCEAS/arcticdatautils.svg?branch=master)](https://travis-ci.org/NCEAS/arcticdatautils)
+<!-- badges: start -->
+[![R build status](https://github.com/NCEAS/arcticdatautils/workflows/R-CMD-check/badge.svg)](https://github.com/NCEAS/arcticdatautils/actions)
+<!-- badges: end -->
 
 The `arcticdatautils` package contains code for doing lots of useful stuff that's too specific for the [dataone](https://github.com/DataONEorg/rdataone) package:
 
